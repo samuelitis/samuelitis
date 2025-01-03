@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samuelitis&show_icons=true&hide=contribs,prs&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelitis&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
-<!--
-**samuelitis/samuelitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills and Tools
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,matlab,java,fastapi,c,cpp,cs,mysql&theme=dark" alt="lang"/>
+</div><div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,anaconda&theme=dark" alt="env"/>
+</div><div align="center">
+<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch,flask&theme=dark" alt="flatform"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+<a href="https://velog.io/@samuelitis/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog"/></a>
+<a href="mailto:sadlock8933@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://orcid.org/0009-0001-6258-6583"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID"/></a>
+</div>
