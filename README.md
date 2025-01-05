@@ -6,11 +6,11 @@
 ## 🛠️ Skills and Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,matlab,java,fastapi,c,cpp,cs,mysql&theme=dark" alt="lang"/>
+<img src="https://skillicons.dev/icons?i=python,matlab,java&theme=dark" alt="lang"/>
 </div><div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,anaconda&theme=dark" alt="env"/>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker&theme=dark" alt="env"/>
 </div><div align="center">
-<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch,flask&theme=dark" alt="flatform"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi&theme=dark" alt="flatform"/>
 </div>
 
 ---
