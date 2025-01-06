@@ -1,6 +1,10 @@
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samuelitis&show_icons=true&hide=contribs,prs&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelitis&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=samuelitis&theme=holi&show_icons=true&hide=contribs,prs&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+<img src="https://api.githubtrends.io/user/svg/samuelitis/langs?theme=dark&include_private=true" alt="Language Stats" />
+<img src="https://api.githubtrends.io/user/svg/samuelitis/repos?theme=dark&include_private=true" alt="Repos Stats" />
 </div>
 
 ## 🛠️ Skills and Tools
